@@ -53,7 +53,7 @@ A comprehensive Spring Boot-based educational platform that connects students wi
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/education-platform.git
+git clone https://github.com/omartarekmoh/Educational-Platform
 ```
 
 2. Configure the application
